@@ -1,6 +1,8 @@
-Python
-Streamlit
-Scikit-learn
-Pandas
-Matplotlib
-chardet  #for file encoding detection
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+chardet
