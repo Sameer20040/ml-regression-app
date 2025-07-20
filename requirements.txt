@@ -3,4 +3,4 @@ Streamlit
 Scikit-learn
 Pandas
 Matplotlib
-chardet (for file encoding detection)
+chardet  #for file encoding detection
