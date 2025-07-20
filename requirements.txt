@@ -1,0 +1,6 @@
+Python
+Streamlit
+Scikit-learn
+Pandas
+Matplotlib
+chardet (for file encoding detection)
